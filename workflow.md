@@ -8,6 +8,9 @@
 *Auf Groß- und Kleinschreibug achten*
 * letzter Schritt: pullen auf github server und kontrollieren
 
+* Beim pushen darauf achten, dass bei github ein neues repo erstellt wurde. 
+* Anschließend auf github den Namen des abgespeicherten repos angeben und in git gui unter *remote* u. *add* den link zur location kopieren
+
 #Zur Entspannung ein Bild vom Meer
 ![meer](meer.jpg)
 Quelle:[meer](https://prezi.com/oib2mpsdstf6/marine-okosysteme-co2-im-meer)
