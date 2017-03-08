@@ -1,7 +1,14 @@
 #github workflow
 
 * Ort für Verzeichnis wählen und benennen, Beispiel workflow
-* speichern als workflow.md *(ALL.files)*
+
+
+![notepad](notepad.jpg) *öffnen*
+
+* speichern als workflow.md *(ALL. types)*
+
+![workflow](workflow.jpg)
+
 * Wenn gitgui offen, schließen und neu öffnen *(unter browse Verzeichnis auswählen)*
 * Je nachdem welche Inhalte man möchte, verändern und durch commit auch dokumentieren
 * Eventuell Foto zur Veranschaulichung in repository workflow speichern
