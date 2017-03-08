@@ -6,9 +6,9 @@
 * Je nachdem welche Inhalte man möchte, verändern und durch commit auch dokumentieren
 * Eventuell Foto zur Veranschaulichung in repository workflow speichern
 *Auf Groß- und Kleinschreibug achten*
-* letzter Schritt: pullen auf github server und kontrollieren
+* letzter Schritt: pushen auf github server und kontrollieren
 
-* Beim pushen darauf achten, dass bei github ein neues repo erstellt wurde. 
+* Beim pushen darauf achten, dass bei github ein neues repo erstellt wurde. unter +
 * Anschließend auf github den Namen des abgespeicherten repos angeben und in git gui unter *remote* u. *add* den link zur location kopieren
 
 #Zur Entspannung ein Bild vom Meer
